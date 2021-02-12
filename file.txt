@@ -41,7 +41,7 @@ q
 
 t
 
-
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 
 
@@ -60,5 +60,5 @@ exit vi
 
 
 
-:wq
+
 
